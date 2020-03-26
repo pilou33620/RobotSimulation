@@ -9,6 +9,7 @@ A simple simulator to explore direct and inverse kinematics for a differential w
 Tested with Python 3.6 but should work as long as pygame is installed.
 ```
 pip install pygame
+pip install pytest
 ```
 
 ## Usage 
